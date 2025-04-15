@@ -13,6 +13,10 @@ A simple Python CLI tool that summarizes either text-based documents (like HTML 
 - Python 3.8+
 - `groq`, `beautifulsoup4`, `lxml`, `python-dotenv`
 
+<pre>
+$ pip3 install -r requirements.txt
+</pre>
+
 ## Examples
 
 <pre>
